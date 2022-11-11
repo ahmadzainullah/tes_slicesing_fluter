@@ -1,6 +1,6 @@
 {
-    "name": "tsel",
-    "short_name": "tsel",
+    "name": "mytsel",
+    "short_name": "mytsel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

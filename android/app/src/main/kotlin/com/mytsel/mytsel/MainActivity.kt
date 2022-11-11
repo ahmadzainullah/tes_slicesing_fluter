@@ -1,4 +1,4 @@
-package com.example.tsel
+package com.mytsel.mytsel
 
 import io.flutter.embedding.android.FlutterActivity
 
